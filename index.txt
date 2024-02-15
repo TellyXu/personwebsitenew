@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Tianli Xu
+Tianli Xu
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+tellyapply@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (240) 936-9697
 
 Birthday
-June 23, 1982
+Sep 6, 2000
 
 Location
-Sacramento, California, USA
+Washington, D.C. , USA
 
 # navbar
 
