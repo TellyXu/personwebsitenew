@@ -9,7 +9,7 @@ Web developer
 Show Contacts
 
 Email
-tellyapply@gmail.com
+txu41@jh.com
 
 Phone
 +1 (240) 936-9697
@@ -42,21 +42,20 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+Frontend development
+High-quality Web Page Development using TypeScript and JavaScript.
 
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Backend development
+Professional development of the server side using Python and SQL.
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+Testing
+Testing using Selenium WebDriver.
 
 alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
-
+Data Analytic
+Data analysis and visualization using Python and R.
 
 ## testimonials
 
